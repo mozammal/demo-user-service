@@ -11,6 +11,7 @@ You can run your application using the following command:
 ```shell script
 git clone https://github.com/mozammal/demo-user-service.git
 cd demo-user-service
+chmod +x mvnw
 ./mvnw clean package
 docker compose up --build
 
