@@ -4,7 +4,15 @@ This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
 If you want to learn more about Quarkus, please visit its website: <https://quarkus.io/>.
 
-## Running the application in dev mode
+## Development Environment
+This project was developed and tested on the following environment:
+
+* OS/Hardware: MacBook Pro M4 (macOS)
+* Java Runtime: JDK 17 or higher
+* Build Tool: Maven
+* Deployment: Docker
+
+## Running the application
 
 You can run your application using the following command:
 
