@@ -9,7 +9,8 @@ If you want to learn more about Quarkus, please visit its website: <https://quar
 You can run your application using the following command:
 
 ```shell script
-cd user-service
+cd https://github.com/mozammal/demo-user-service.git
+cd demo-user-service
 ./mvnw clean package
 docker compose up --build
 
