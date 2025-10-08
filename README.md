@@ -1,4 +1,4 @@
-# user-service
+# Demo user service
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
@@ -14,8 +14,6 @@ cd user-service
 docker compose up --build
 
 ```
-
-> **_NOTE:_**  Quarkus now ships with a Dev UI, which is available in dev mode only at <http://localhost:8080/q/dev/>.
 
 ## How to use the APIs
 
